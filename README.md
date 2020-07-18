@@ -10,3 +10,14 @@ Link path to Route then to func| class to render, plus+ iFrame to show Youtube
 
    width="2296" 
    height="1291.5"
+   
+* avoid refusal from youtube
+
+   src="https://www.youtube.com/embed/XXXXX" 
+   
+* other properties of iframe
+
+  frameborder="1" || "0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen
+                   
