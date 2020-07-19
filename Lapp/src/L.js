@@ -24,7 +24,7 @@ export default function L(){
                     </li>
                     <li>
 
-                        <Link to= "/bye"> Conatact Me</Link>
+                        <Link to= "/bye"> Contact Me</Link>
 
                     </li>
 
